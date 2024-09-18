@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Self-taught programmer (HTML, CSS, BOOTSTRAP, JAVASCRIPT, VUE.JS, PYTHON, DJANGO, MySQL, PostgreSQL, and learning more )
+
+## Published work:
+
+Check out my profiles:
+- GitHub - [Hado Dev](https://github.com/hadodev)
+- Frontend Mentor - [@hadodev](https://www.frontendmentor.io/profile/hadodev)
+
+## Contact:
+- 📫 Reach me by email: [Gmail](mailto:hado.dev.app@gmail.com)
