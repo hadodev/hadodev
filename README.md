@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Self-taught programmer (HTML, CSS, BOOTSTRAP, JAVASCRIPT, VUE.JS, PYTHON, DJANGO, MySQL, PostgreSQL, and learning more )
+Self-taught programmer (HTML, CSS, JAVASCRIPT, BOOTSTRAP, TAILWIN CSS, VUE.JS, PYTHON, DJANGO, MySQL, PostgreSQL, and learning more )
 
 ## Published work:
 
