@@ -39,8 +39,8 @@ Programador autodidacta | Self-taught developer | IA & Web Portfolio 🚀
 | [NftPreviewCard](https://github.com/hadodev/NftPreviewCard) | Reto Frontend Mentor: tarjeta NFT. <br> NFT preview card challenge. | CSS, HTML | <img src="https://github.com/hadodev/NftPreviewCard/raw/main/design/desktop-design.png" width="120"/> |
 | [ArticlePreviewComponent ](https://github.com/hadodev/ArticlePreviewComponent) | Reto Frontend Mentor: Article preview component. <br> Article preview component solution. | HTML, CSS | <img src="https://github.com/hadodev/ArticlePreviewComponent/blob/main/design/desktop-design.png" width="120"/> |
 | [FaqAccordion](https://github.com/hadodev/FaqAccordion) | Reto Frontend Mentor: FAQ accordion. <br> FAQ accordion challenge. | CSS, HTML | <img src="https://github.com/hadodev/FaqAccordion/raw/main/desktop.png" width="120"/> |
-| [CSSFlexGrid](https://github.com/hadodev/CSSFlexGrid) | Ejemplos prácticos de Flex y Grid en CSS. <br> Flex & Grid CSS examples. | CSS, HTML | <img src="https://github.com/hadodev/CSSFlexGrid/raw/main/preview.png" width="120"/> |
-| [3ColumnPreviewCardComponent](https://github.com/hadodev/3ColumnPreviewCardComponent) | Reto Frontend Mentor: cards de 3 columnas. <br> 3-column preview card challenge. | CSS, HTML, JavaScript | <img src="https://github.com/hadodev/3ColumnPreviewCardComponent/raw/main/preview.jpg" width="120"/> |
+| [CSSFlexGrid](https://github.com/hadodev/CSSFlexGrid) | Ejemplos prácticos de Flex y Grid en CSS. <br> Flex & Grid CSS examples. | CSS, HTML | <img src="https://github.com/user-attachments/assets/dbe5e810-73de-4457-9ee8-8ec5240a05ed" width="120"/> |
+| [3ColumnPreviewCardComponent](https://github.com/hadodev/3ColumnPreviewCardComponent) | Reto Frontend Mentor: cards de 3 columnas. <br> 3-column preview card challenge. | CSS, HTML, JavaScript | <img src="https://github.com/hadodev/3ColumnPreviewCardComponent/raw/main/design/desktop-design.png" width="120"/> |
 
 *Puedes cambiar las URLs de las imágenes por las de tus propios repositorios si los nombres de los archivos son distintos / You can change the image URLs to your own repo screenshots.*
 
