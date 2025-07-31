@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Hado Dev / Hi! I'm Hado Dev</h1>
+<h1 align="center">👋 Hado Dev </h1>
 
 <p align="center">
 Programador autodidacta | Self-taught developer | IA & Web Portfolio 🚀
