@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hado Dev </h1>
+<h1 align="center">👋 HaDo Dev </h1>
 
 <p align="center">
 Programador autodidacta | Self-taught developer | IA & Web Portfolio 🚀
@@ -31,15 +31,15 @@ Programador autodidacta | Self-taught developer | IA & Web Portfolio 🚀
 
 | Proyecto / Project | Descripción / Description | Tecnologías / Technologies | Imagen / Image |
 |-------------------|--------------------------|---------------------------|---------------|
-| [IntroComponentSignUp](https://github.com/hadodev/IntroComponentSignUp) | Componente de registro con validación. <br> Signup component with validation. | CSS, JavaScript, HTML | <img src="https://github.com/hadodev/IntroComponentSignUp/blob/main/design/desktop-design.png?raw=true" width="120"/> |
-| [PingComingSoonPage](https://github.com/hadodev/PingComingSoonPage/) | Página de lanzamiento "Próximamente". <br> Coming Soon landing page. | CSS, HTML, JavaScript | <img src="https://github.com/hadodev/PingComingSoonPage/blob/main/design/mobile-design.png" width="120"/> |
-| [HaddleLandingPage](https://github.com/hadodev/HaddleLandingPage) | Reto Frontend Mentor: Huddle landing page. <br> Huddle landing page challenge. | Astro, CSS, JavaScript | <img src="https://github.com/hadodev/HaddleLandingPage/blob/master/design/desktop-design.png?raw=true" width="120"/> |
-| [SinglePriceGridComponent](https://github.com/hadodev/SinglePriceGridComponent) | Reto Frontend Mentor: grid de precios. <br> Single price grid challenge. | Astro, CSS, JavaScript | <img src="https://github.com/user-attachments/assets/3c8b59c6-5a1a-4170-9c31-5a67dbe55acd" width="120"/> |
-| [BaseApparelComingSoon](https://github.com/hadodev/BaseApparelComingSoon) | Reto Frontend Mentor: Base Apparel coming soon page solution. <br> Base Apparel coming soon page solution. | HTML, CSS, JavaScript, TailwindCSS, JS Library Validator | <img src="https://github.com/hadodev/BaseApparelComingSoon/raw/main/design/desktop-design.png" width="120"/> |
-| [NftPreviewCard](https://github.com/hadodev/NftPreviewCard) | Reto Frontend Mentor: tarjeta NFT. <br> NFT preview card challenge. | CSS, HTML | <img src="https://github.com/hadodev/NftPreviewCard/raw/main/design/desktop-design.png" width="120"/> |
-| [ArticlePreviewComponent ](https://github.com/hadodev/ArticlePreviewComponent) | Reto Frontend Mentor: Article preview component. <br> Article preview component solution. | HTML, CSS | <img src="https://github.com/hadodev/ArticlePreviewComponent/blob/main/design/desktop-design.png" width="120"/> |
-| [FaqAccordion](https://github.com/hadodev/FaqAccordion) | Reto Frontend Mentor: FAQ accordion. <br> FAQ accordion challenge. | CSS, HTML | <img src="https://github.com/hadodev/FaqAccordion/raw/main/desktop.png" width="120"/> |
-| [CSSFlexGrid](https://github.com/hadodev/CSSFlexGrid) | Ejemplos prácticos de Flex y Grid en CSS. <br> Flex & Grid CSS examples. | CSS, HTML | <img src="https://github.com/user-attachments/assets/dbe5e810-73de-4457-9ee8-8ec5240a05ed" width="120"/> |
+| [IntroComponentSignUp](https://github.com/hadodev/IntroComponentSignUp) | Reto Frontend Mentor: Signup component with validation. | HTML, CSS, JavaScript | <img src="https://github.com/hadodev/IntroComponentSignUp/blob/main/design/desktop-design.png?raw=true" width="120"/> |
+| [PingComingSoonPage](https://github.com/hadodev/PingComingSoonPage/) | Reto Frontend Mentor: Coming Soon landing page. | HTML, CSS, JavaScript | <img src="https://github.com/hadodev/PingComingSoonPage/blob/main/design/mobile-design.png" width="120"/> |
+| [HaddleLandingPage](https://github.com/hadodev/HaddleLandingPage) | Reto Frontend Mentor: Huddle landing page. | Astro, HTML, CSS, JavaScript | <img src="https://github.com/hadodev/HaddleLandingPage/blob/master/design/desktop-design.png?raw=true" width="120"/> |
+| [SinglePriceGridComponent](https://github.com/hadodev/SinglePriceGridComponent) | Reto Frontend Mentor: Single price grid challenge. | Astro, HTML, CSS, JavaScript | <img src="https://github.com/user-attachments/assets/3c8b59c6-5a1a-4170-9c31-5a67dbe55acd" width="120"/> |
+| [BaseApparelComingSoon](https://github.com/hadodev/BaseApparelComingSoon) | Reto Frontend Mentor: Base Apparel coming soon page solution. | HTML, CSS, TailwindCSS, JavaScript, JS Library Validator | <img src="https://github.com/hadodev/BaseApparelComingSoon/raw/main/design/desktop-design.png" width="120"/> |
+| [NftPreviewCard](https://github.com/hadodev/NftPreviewCard) | Reto Frontend Mentor: NFT preview card challenge. | HTML, CSS | <img src="https://github.com/hadodev/NftPreviewCard/raw/main/design/desktop-design.png" width="120"/> |
+| [ArticlePreviewComponent ](https://github.com/hadodev/ArticlePreviewComponent) | Reto Frontend Mentor: Article preview component. | HTML, CSS | <img src="https://github.com/hadodev/ArticlePreviewComponent/blob/main/design/desktop-design.png" width="120"/> |
+| [FaqAccordion](https://github.com/hadodev/FaqAccordion) | Reto Frontend Mentor: FAQ accordion challenge. | HTML, CSS | <img src="https://github.com/hadodev/FaqAccordion/raw/main/desktop.png" width="120"/> |
+| [CSSFlexGrid](https://github.com/hadodev/CSSFlexGrid) | Ejemplos prácticos de Flex y Grid en CSS. <br> Flex & Grid CSS examples. | HTML, CSS | <img src="https://github.com/user-attachments/assets/dbe5e810-73de-4457-9ee8-8ec5240a05ed" width="120"/> |
 | [3ColumnPreviewCardComponent](https://github.com/hadodev/3ColumnPreviewCardComponent) | Reto Frontend Mentor: cards de 3 columnas. <br> 3-column preview card challenge. | CSS, HTML, JavaScript | <img src="https://github.com/hadodev/3ColumnPreviewCardComponent/raw/main/design/desktop-design.png" width="120"/> |
 
 *Puedes cambiar las URLs de las imágenes por las de tus propios repositorios si los nombres de los archivos son distintos / You can change the image URLs to your own repo screenshots.*
