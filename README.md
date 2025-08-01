@@ -32,27 +32,39 @@ Programador autodidacta | Self-taught developer | IA & Web Portfolio 🚀
 | Proyecto / Project | Descripción / Description | Tecnologías / Technologies | Imagen / Image |
 |-------------------|--------------------------|---------------------------|---------------|
 | [IntroComponentSignUp](https://github.com/hadodev/IntroComponentSignUp) | Reto Frontend Mentor: Signup component with validation. | HTML, CSS, JavaScript | <img src="https://github.com/hadodev/IntroComponentSignUp/blob/main/design/desktop-design.png?raw=true" width="120"/> |
-| [PingComingSoonPage](https://github.com/hadodev/PingComingSoonPage/) | Reto Frontend Mentor: Coming Soon landing page. | HTML, CSS, JavaScript | <img src="https://github.com/hadodev/PingComingSoonPage/blob/main/design/mobile-design.png" width="120"/> |
+| [PingComingSoonPage](https://github.com/hadodev/PingComingSoonPage/) | Reto Frontend Mentor: Coming Soon landing page. | HTML, CSS, JavaScript | <img src="https://github.com/hadodev/PingComingSoonPage/blob/main/design/desktop-design.png" width="120"/> |
 | [HaddleLandingPage](https://github.com/hadodev/HaddleLandingPage) | Reto Frontend Mentor: Huddle landing page. | Astro, HTML, CSS, JavaScript | <img src="https://github.com/hadodev/HaddleLandingPage/blob/master/design/desktop-design.png?raw=true" width="120"/> |
 | [SinglePriceGridComponent](https://github.com/hadodev/SinglePriceGridComponent) | Reto Frontend Mentor: Single price grid challenge. | Astro, HTML, CSS, JavaScript | <img src="https://github.com/user-attachments/assets/3c8b59c6-5a1a-4170-9c31-5a67dbe55acd" width="120"/> |
 | [BaseApparelComingSoon](https://github.com/hadodev/BaseApparelComingSoon) | Reto Frontend Mentor: Base Apparel coming soon page solution. | HTML, CSS, TailwindCSS, JavaScript, JS Library Validator | <img src="https://github.com/hadodev/BaseApparelComingSoon/raw/main/design/desktop-design.png" width="120"/> |
-| [NftPreviewCard](https://github.com/hadodev/NftPreviewCard) | Reto Frontend Mentor: NFT preview card challenge. | HTML, CSS | <img src="https://github.com/hadodev/NftPreviewCard/raw/main/design/desktop-design.png" width="120"/> |
 | [ArticlePreviewComponent ](https://github.com/hadodev/ArticlePreviewComponent) | Reto Frontend Mentor: Article preview component. | HTML, CSS | <img src="https://github.com/hadodev/ArticlePreviewComponent/blob/main/design/desktop-design.png" width="120"/> |
+| [SocialProofSection](https://github.com/hadodev/SocialProofSection) | Reto Frontend Mentor: Social proof section solution. | HTML, CSS, TailwindCSS | <img src="https://github.com/hadodev/SocialProofSection/raw/main/design/desktop-design.png" width="120"/> |
+| [3ColumnPreviewCardComponent](https://github.com/hadodev/3ColumnPreviewCardComponent) | Reto Frontend Mentor: 3-column preview card component. | HTML, CSS, TailwindCSS | <img src="https://github.com/hadodev/3ColumnPreviewCardComponent/raw/main/design/desktop-design.png" width="120"/> |
+| [ProfileCardComponent](https://github.com/hadodev/ProfileCardComponent) | Reto Frontend Mentor: Profile card component. | HTML, CSS | <img src="https://github.com/hadodev/ProfileCardComponent/raw/main/design/desktop-design.png" width="120"/> |
+| [StatsPreviewCardComponent](https://github.com/hadodev/StatsPreviewCardComponent) | Reto Frontend Mentor: Stats preview card component. | HTML, CSS | <img src="https://github.com/hadodev/StatsPreviewCardComponent/raw/main/design/desktop-design.png" width="120"/> |
+| [OrderSummaryComponent](https://github.com/hadodev/OrderSummaryComponent) | Reto Frontend Mentor: Order summary card. | HTML, CSS | <img src="https://github.com/hadodev/OrderSummaryComponent/raw/main/design/desktop-design.png" width="120"/> |
+| [NftPreviewCard](https://github.com/hadodev/NftPreviewCard) | Reto Frontend Mentor: NFT preview card challenge. | HTML, CSS | <img src="https://github.com/hadodev/NftPreviewCard/raw/main/design/desktop-design.png" width="120"/> |
+| [InteractiveRatingComponentMain](https://github.com/hadodev/InteractiveRatingComponentMain) | Reto Frontend Mentor: Interactive rating component. | HTML, CSS, Javascript | <img src="https://github.com/hadodev/InteractiveRatingComponentMain/raw/main/design/desktop-design.png" width="120"/> |
+| [FourCardFeatureSection](https://github.com/hadodev/FourCardFeatureSection) | Reto Frontend Mentor: Four card feature section. | HTML, CSS | <img src="https://github.com/hadodev/FourCardFeatureSection/raw/main/design/desktop-design.png" width="120"/> |
+| [BentoGridMain](https://github.com/hadodev/BentoGridMain) | Reto Frontend Mentor: Bento grid. | HTML, CSS | <img src="https://github.com/hadodev/BentoGridMain/raw/main/design/desktop-design.png" width="120"/> |
+| [ProductPreviewCardComponent](https://github.com/hadodev/ProductPreviewCardComponent) | Reto Frontend Mentor: Product preview card component. | HTML, CSS | <img src="https://github.com/hadodev/ProductPreviewCardComponent/raw/main/design/desktop-design.png" width="120"/> |
+| [BlogPreviewCard](https://github.com/hadodev/BlogPreviewCard) | Reto Frontend Mentor: Blog preview card. | HTML, CSS | <img src="https://github.com/hadodev/BlogPreviewCard/raw/main/design/desktop-design.png" width="120"/> |
+| [QrCodeComponent](https://github.com/hadodev/QrCodeComponent) | Reto Frontend Mentor: QR code component. | HTML, CSS | <img src="https://github.com/hadodev/QrCodeComponent/raw/main/design/desktop-design.png" width="120"/> |
+| [ResultsSummaryComponent](https://github.com/hadodev/ResultsSummaryComponent) | Reto Frontend Mentor: Results summary component. | HTML, CSS, Javascript | <img src="https://github.com/hadodev/ResultsSummaryComponent/raw/main/desktop.png" width="120"/> |
+| [RecipePage](https://github.com/hadodev/RecipePage) | Reto Frontend Mentor: Recipe page. | HTML, CSS | <img src="https://github.com/hadodev/RecipePage/raw/main/Desktop.png" width="120"/> |
+| [SocialLinkProfile](https://github.com/hadodev/SocialLinkProfile) | Reto Frontend Mentor: Social links profile. | HTML, CSS | <img src="https://github.com/hadodev/SocialLinkProfile/blob/main/Desktop.png" width="120"/> |
 | [FaqAccordion](https://github.com/hadodev/FaqAccordion) | Reto Frontend Mentor: FAQ accordion challenge. | HTML, CSS | <img src="https://github.com/hadodev/FaqAccordion/raw/main/desktop.png" width="120"/> |
 | [CSSFlexGrid](https://github.com/hadodev/CSSFlexGrid) | Ejemplos prácticos de Flex y Grid en CSS. <br> Flex & Grid CSS examples. | HTML, CSS | <img src="https://github.com/user-attachments/assets/dbe5e810-73de-4457-9ee8-8ec5240a05ed" width="120"/> |
-| [3ColumnPreviewCardComponent](https://github.com/hadodev/3ColumnPreviewCardComponent) | Reto Frontend Mentor: cards de 3 columnas. <br> 3-column preview card challenge. | CSS, HTML, JavaScript | <img src="https://github.com/hadodev/3ColumnPreviewCardComponent/raw/main/design/desktop-design.png" width="120"/> |
-
-*Puedes cambiar las URLs de las imágenes por las de tus propios repositorios si los nombres de los archivos son distintos / You can change the image URLs to your own repo screenshots.*
+| [CSSPyramidBlack](https://github.com/hadodev/CSSPyramidBlack) | Inspired by bento grids. Example of a combination of flex and grid display property with an amazing result. | HTML, CSS | <img src="https://private-user-images.githubusercontent.com/175190265/348344590-4bed4eb3-f683-4cd6-a351-5e4dfdfba569.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwNzY2NDAsIm5iZiI6MTc1NDA3NjM0MCwicGF0aCI6Ii8xNzUxOTAyNjUvMzQ4MzQ0NTkwLTRiZWQ0ZWIzLWY2ODMtNGNkNi1hMzUxLTVlNGRmZGZiYTU2OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwMVQxOTI1NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMTM4MmM1MmQyZWE3MzQ4YjVmOTY0OTA5NjBhOWEzMzQ2MzYyOGVkY2ZmMjI3NTQ1MTA2YzMxNmY0NWNjODllJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.c8nAbv9HuCCax8DAnTtukMgOSIhgg18xC9zlq8MbGXA" width="120"/> |
 
 ---
 
 ## 🧑‍💻 Sobre mí / About me
 
 **Español:**  
-Soy desarrollador autodidacta con experiencia en frontend y backend. Apasionado por la inteligencia artificial, interfaces modernas y soluciones basadas en datos. Actualmente explorando LlamaIndex (IA, MCP, RAG), Astro, Supabase, Qdrant y ChromaDB.
+Soy desarrollador autodidacta con experiencia en frontend y backend. Apasionado por la inteligencia artificial, interfaces modernas y soluciones basadas en datos. Actualmente explorando LlamaIndex (LLM, MCP, RAG), Astro, base de datos vectoriales (Supabase, Qdrant y ChromaDB).
 
 **English:**  
-I'm a self-taught developer with experience in frontend and backend. Passionate about AI, modern interfaces, and data-driven solutions. Currently exploring LlamaIndex (AI, MCP, RAG), Astro, Supabase, Qdrant, and ChromaDB.
+I'm a self-taught developer with experience in frontend and backend. Passionate about AI, modern interfaces, and data-driven solutions. Currently exploring LlamaIndex (LLM, MCP, RAG), Astro, Vector databases (Supabase, Qdrant y ChromaDB).
 
 ---
 
