@@ -26,6 +26,7 @@ Programador autodidacta | Self-taught developer | IA & Web Portfolio 🚀
   <img src="https://qdrant.tech/img/brand-resources-logos/logomark.svg" alt="Qdrant" width="40" />
   <img src="https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=1920&q=75&dpl=dpl_FFaohLmPN9XUB27DnfZYFQdPK81X" alt="ChromaDB" height="40" />
 </p>
+
 ---
 
 ## 🌟 Portfolio de proyectos / Project Portfolio
