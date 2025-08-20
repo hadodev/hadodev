@@ -15,6 +15,8 @@ Programador autodidacta | Self-taught developer | IA & Web Portfolio 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="TailwindCSS" width="40" />
   <img src="https://astro.build/assets/press/astro-icon-dark.svg" alt="Astro" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" title="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" />
   <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png?raw=true" alt="LlamaIndex" width="40" />
@@ -24,13 +26,14 @@ Programador autodidacta | Self-taught developer | IA & Web Portfolio 🚀
   <img src="https://qdrant.tech/img/brand-resources-logos/logomark.svg" alt="Qdrant" width="40" />
   <img src="https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=1920&q=75&dpl=dpl_FFaohLmPN9XUB27DnfZYFQdPK81X" alt="ChromaDB" height="40" />
 </p>
-
 ---
 
 ## 🌟 Portfolio de proyectos / Project Portfolio
 
 | Proyecto / Project | Descripción / Description | Tecnologías / Technologies | Imagen / Image |
 |-------------------|--------------------------|---------------------------|---------------|
+| [landingPage-GPT](https://github.com/hadodev/landingPage-GPT) | Landing Page con UI responsiva. <br> Responsive Landing Page UI. | React, HTML, CSS, JavaScript | <img src="[https://github.com/hadodev/landingPage-GPT/raw/main/preview.png](https://github.com/hadodev/landingPage-GPT/blob/main/screenshots/tablet_design_332x320.png)" width="120"/> |
+| [tic-tac-toe](https://github.com/hadodev/tic-tac-toe) | Juego clásico de Tic Tac Toe en React e Inteligencia Artificial. <br> Tic Tac Toe game built with React and IA. | Ollama, Groq, React, HTML, CSS, JavaScript | <img src="[https://github.com/hadodev/tic-tac-toe/raw/main/preview.png](https://github.com/hadodev/tic-tac-toe/raw/main/game-preview.jpg)" width="120"/> |
 | [IntroComponentSignUp](https://github.com/hadodev/IntroComponentSignUp) | Reto Frontend Mentor: Signup component with validation. | HTML, CSS, JavaScript | <img src="https://github.com/hadodev/IntroComponentSignUp/blob/main/design/desktop-design.png?raw=true" width="120"/> |
 | [PingComingSoonPage](https://github.com/hadodev/PingComingSoonPage/) | Reto Frontend Mentor: Coming Soon landing page. | HTML, CSS, JavaScript | <img src="https://github.com/hadodev/PingComingSoonPage/blob/main/design/desktop-design.png" width="120"/> |
 | [HaddleLandingPage](https://github.com/hadodev/HaddleLandingPage) | Reto Frontend Mentor: Huddle landing page. | Astro, HTML, CSS, JavaScript | <img src="https://github.com/hadodev/HaddleLandingPage/blob/master/design/desktop-design.png?raw=true" width="120"/> |
@@ -61,10 +64,10 @@ Programador autodidacta | Self-taught developer | IA & Web Portfolio 🚀
 ## 🧑‍💻 Sobre mí / About me
 
 **Español:**  
-Soy desarrollador autodidacta con experiencia en frontend y backend. Apasionado por la inteligencia artificial, interfaces modernas y soluciones basadas en datos. Actualmente explorando LlamaIndex (LLM, MCP, RAG), Astro, base de datos vectoriales (Supabase, Qdrant y ChromaDB).
+Soy desarrollador autodidacta con experiencia en frontend y backend. Apasionado por la inteligencia artificial, interfaces modernas y soluciones basadas en datos. Actualmente explorando LlamaIndex (LLM, MCP, RAG), React, Astro, base de datos vectoriales (Supabase, Qdrant y ChromaDB).
 
 **English:**  
-I'm a self-taught developer with experience in frontend and backend. Passionate about AI, modern interfaces, and data-driven solutions. Currently exploring LlamaIndex (LLM, MCP, RAG), Astro, Vector databases (Supabase, Qdrant y ChromaDB).
+I'm a self-taught developer with experience in frontend and backend. Passionate about AI, modern interfaces, and data-driven solutions. Currently exploring LlamaIndex (LLM, MCP, RAG), React, Astro, Vector databases (Supabase, Qdrant y ChromaDB).
 
 ---
 
